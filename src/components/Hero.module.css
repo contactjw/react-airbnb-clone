@@ -1,0 +1,23 @@
+.herocontainer {
+  display: flex;
+  flex-direction: column;
+}
+
+.heroimg {
+  margin: 26px 77px 32px 77px;
+  max-width: 400px;
+  align-self: center;
+}
+
+.herotext {
+  margin-left: 36px;
+}
+
+.heroh1 {
+  font-weight: 600;
+  font-size: 36px;
+}
+
+.heropara {
+  max-width: 320px;
+}
